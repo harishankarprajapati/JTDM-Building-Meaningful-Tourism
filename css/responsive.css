@@ -289,16 +289,16 @@ a.navbar-brand {
         .secimgst {
         bottom: 103px;
     }
-        .titledate {
+         .titledate {
         position: absolute;
         left: 0;
-        top: 295px;
+        top: 275px;
         font-size: 20px;
     }
         .titleheading {
         position: absolute;
         left: 0;
-        top: 326px;
+        top: 306px;
         font-size: 23px;
     }
         .ecetsechov:hover .titledate {
@@ -315,18 +315,7 @@ a.navbar-brand {
 
 }
 @media only screen and (max-width:340px) {
-        .titledate {
-        position: absolute;
-        left: 0;
-        top: 275px;
-        font-size: 20px;
-    }
-        .titleheading {
-        position: absolute;
-        left: 0;
-        top: 306px;
-        font-size: 23px;
-    }
+ 
 
 }
 @media only screen and (max-width:320px) {
