@@ -344,13 +344,13 @@ a.navbar-brand {
         .titledate {
         position: absolute;
         left: 0;
-        top: 213px;
+        top: 203px;
         font-size: 18px;
     }
     .titleheading {
         position: absolute;
         left: 0;
-        top: 250px;
+        top: 230px;
         font-size: 20px;
     }
         .ecetsechov:hover .titleheading {
