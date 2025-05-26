@@ -241,6 +241,10 @@ ul.nav.nav-tabs {
 
 
 @media only screen and (max-width:430px) {
+a.navbar-brand {
+    width: 75%;
+
+}
     .secsldetext h1 {
     font-size: 40px;
   }
