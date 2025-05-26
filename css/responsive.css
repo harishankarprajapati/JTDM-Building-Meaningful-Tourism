@@ -280,6 +280,9 @@ a.navbar-brand {
 }
 
 @media only screen and (max-width:380px) {
+       .secsltext {
+        margin-top: -200px;
+    }
     a.navbar-brand {
     width: 70%;
     }
@@ -309,6 +312,7 @@ a.navbar-brand {
         left: 0;
         top: 358px;
     }
+
 }
 
 @media only screen and (max-width:320px) {
