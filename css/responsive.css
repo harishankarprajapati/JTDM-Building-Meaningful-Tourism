@@ -237,6 +237,58 @@ ul.nav.nav-tabs {
 .secsldetext h1 {
         font-size: 66px;
     }
+    
+    .secpagerheader h3 {
+        font-size: 40px;
+    }
+
+    .secseleallrab2 {
+        width: 100% !important;
+    }
+    .secontabg {
+    padding-bottom: 20px;
+ }
+ .overlay {
+    height: 92%;
+ }
+ .secmarme img {
+    margin: auto !important;
+    width: 100%;
+}
+.secmarme {
+    margin-top: -110px;
+}
+.allinerpagebg2 {
+    padding-bottom: 40px
+}
+.sectexthe {
+    width: 100%;
+}
+.contabg {
+    width: 100%;
+    padding: 0px 10px;
+}
+.secddfma{
+    display: flex;
+    flex-direction: column;
+}
+.secgadeats {
+    width: 100%;
+    padding-left: 0px;
+}
+.secgadimg {
+    width: 60%;
+    padding-bottom: 20px;
+}
+.seclangand {
+    font-size: 20px;
+}
+.seclangand span {
+    font-size: 13px;
+}
+.row.filter-bar .col-md-3 {
+    margin-bottom: 20px;
+}
 }
 
 

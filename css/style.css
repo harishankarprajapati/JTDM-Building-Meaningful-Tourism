@@ -1232,3 +1232,29 @@ a {
  background-color: #fff;
  color: #AC8900;
 }
+
+.allinerpagebg2 {
+    background-image: url(../images/inerpagebg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-bottom: 150px;
+}
+.secmarme img{
+   margin: auto !important;
+   width: 60%;
+}
+.sectexthe{
+   width: 60% ;
+   text-align: start !important;
+   margin: auto;
+   padding-top: 30px;
+}
+.sectexthe p{
+   font-family: 'Poppins';
+   color: #000;
+}
+.secmarme {
+    margin-top: -210px;    
+    text-align: center;
+    margin-bottom: 60px;
+}
