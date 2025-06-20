@@ -1,0 +1,1234 @@
+.headerbg {
+   position: relative;
+   z-index: 999;
+}
+
+.seclogow {
+   width: 72% !important;
+}
+
+a.navbar-brand {
+   margin-top: -22px;
+}
+
+.headermenusec {
+   font-family: 'Poppins';
+   font-size: 18px;
+   color: #000;
+}
+
+.headermenusec:hover {
+   color: #AC8900;
+   text-decoration: none;
+}
+
+.socal-links {
+   padding-top: 12px;
+}
+
+.headermenusec i {
+   color: #AC8900;
+}
+
+.secherslider1 {
+   background-image: url(../images/herobgimg.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding-top: 150px;
+   padding-bottom: 150px;
+}
+
+.heroslider {
+   margin-top: -113px;
+   position: relative;
+   z-index: 9;
+}
+
+.secsldetext h5 {
+   font-family: "Sacramento";
+   font-size: 40px;
+   color: #fff;
+}
+
+.secsldetext span {
+   color: #AC8900;
+}
+
+.secsldetext h1 {
+   font-family: 'Poppins';
+   font-size: 60px;
+   color: #fff;
+   font-weight: 700;
+}
+
+.secsldetext p {
+   font-family: 'Poppins';
+   font-size: 15px;
+   color: #fff;
+   font-weight: 300;
+}
+
+hr.herohr {
+   background-color: #AC8900;
+   width: 100px;
+   height: 5px;
+   opacity: 1;
+   border: 0;
+   margin: 0;
+   margin-bottom: 20px;
+}
+
+.secbtnhero {
+   padding-top: 30px;
+}
+
+.secbtnhero a {
+   font-family: 'Poppins';
+   font-size: 15px;
+   color: #fff;
+   background: #AC8900;
+   border-radius: 30px;
+   padding: 10px 30px;
+   text-decoration: none;
+}
+
+.secbtnhero a:hover {
+   background-color: #45A055;
+}
+
+.secimgst {
+   position: fixed;
+   right: 0;
+   bottom: 100px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   z-index: 1000;
+}
+
+.secimgst img {
+   width: 70% !important;
+}
+
+.secplaybut {
+   width: 30% !important;
+   padding-top: 15px;
+}
+
+.heroslider .owl-nav {
+   display: none;
+}
+
+.heroslider .owl-dots {
+   margin-top: -78px;
+   text-align: center;
+   z-index: 99;
+}
+
+button.owl-dot {
+   width: 40px;
+   background-color: #fff !important;
+   margin-left: 10px;
+}
+
+button.owl-dot.active {
+   background-color: #AC8900 !important;
+}
+
+.my-owl-nav {
+   position: relative;
+   z-index: 99 !important;
+   color: #fff;
+   padding-left: 68px;
+   margin-top: -36px;
+}
+
+.secbgtoh {
+   padding: 11px 15px;
+   background: #ffffff26;
+   border-radius: 50%;
+   font-size: 20px;
+   backdrop-filter: blur(var(--blur-xs));
+}
+
+.secOurServicesbg {
+   background-color: #010080;
+   padding: 80px;
+}
+
+.secheadding h2 {
+   font-family: "Sacramento";
+   font-size: 60px;
+   color: #fff;
+   text-align: center;
+   margin: 0;
+}
+
+.secheadding h2 span {
+   color: #AC8900;
+}
+
+.secheadding hr {
+   background-color: #AC8900;
+   width: 100px;
+   height: 2px;
+   opacity: 1;
+   border: 0;
+   margin: 0;
+   margin-bottom: 20px;
+   margin: auto;
+}
+
+.secslinum {
+   font-family: 'Poppins';
+   font-size: 80px;
+   font-weight: 700;
+   text-align: end;
+   color: #ffffff34;
+   margin-bottom: -40px;
+   position: relative;
+   z-index: 9;
+}
+
+.senowimg img {
+   width: 100%;
+}
+
+.senowimg {
+   height: 350px;
+}
+
+.senowimg:hover img {
+   border-radius: 10px;
+}
+
+.senowimg:hover {
+   height: auto;
+   margin-top: -150px;
+   /* margin-bottom: -50px; */
+}
+
+.owlslider .owl-stage {
+   display: flex;
+   align-content: flex-end;
+   align-items: flex-end;
+   padding-top: 100px;
+
+}
+
+.secsltext {
+   margin-top: -130px;
+   margin-bottom: 100px;
+   position: relative;
+   z-index: 99;
+}
+
+.senowimg:hover .secsltext {
+   margin-top: -52px;
+   margin-bottom: 00px;
+}
+
+.secsltext h4 {
+   font-family: 'Poppins';
+   font-size: 18px;
+   font-weight: 500;
+   color: #fff;
+   padding-bottom: 20px;
+}
+
+.secsltext p {
+   text-align: end;
+}
+
+.secsltext a {
+   background-color: #45A055;
+   padding: 11px 13px;
+   border-radius: 50px;
+   font-size: 16px;
+   color: #fff;
+}
+
+.senowimg:hover a {
+   background-color: #AC8900;
+}
+
+.owlslider .item img {
+   border-radius: 10px;
+}
+
+.owlslider .item .secsevbg {
+   border-radius: 10px;
+}
+
+.owlslider .owl-nav {
+   display: none;
+}
+
+.owlslider .owl-dots {
+   text-align: center;
+}
+
+.secbgaccom {
+   padding: 80px 10px;
+}
+
+.secheadding2 h2 {
+   font-family: "Poppins";
+   font-size: 35px;
+   font-weight: 600;
+   color: #000;
+   margin: 0;
+}
+
+.secheadding2 hr {
+   background-color: #AC8900;
+   width: 100px;
+   height: 3px;
+   opacity: 1;
+   border: 0;
+   margin: 0;
+   margin-bottom: 20px;
+}
+
+ul.nav.nav-tabs {
+   text-align: end;
+   justify-content: flex-end;
+   margin-top: -66px;
+   border: 0px !important;
+
+}
+
+.nav-tabs .nav-link:focus,
+.nav-tabs .nav-link:hover {
+   border: 0px;
+}
+
+.nav-tabs .nav-item.show .nav-link,
+.nav-tabs .nav-link.active {
+   border: 0px !important;
+   color: #AC8900 !important;
+
+}
+
+.nav-tabs .nav-link {
+   font-family: "Poppins";
+   font-size: 16px;
+   color: #000;
+   border: 0;
+   padding-right: 0;
+   padding-left: 40px;
+}
+
+.tab-content {
+   margin-top: 50px;
+   border: 0px !important;
+}
+
+.nav-link:focus-visible {
+   box-shadow: none;
+}
+
+.nav-item:focus-visible {
+   border: 0px !important;
+   outline: none !important;
+}
+
+.secbhaccbo a {
+   text-decoration: none;
+}
+
+.secbhaccbo {
+   border: 1px solid #E1E1E1;
+   padding: 15px;
+   border-radius: 10px;
+   margin-bottom: 20px;
+}
+
+.secbhaccbo:hover {
+   box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+   border: 1px solid #fff;
+}
+
+.secbhaccbo img {
+   border-radius: 10px;
+}
+
+.sectabtittle {
+   font-family: "Poppins";
+   font-size: 17px;
+   color: #000;
+   padding-top: 10px;
+}
+
+.sectabcity {
+   font-family: "Poppins";
+   font-size: 15px;
+   color: #7F7F7F;
+}
+
+.sectabcity i {
+   color: #AC8900;
+}
+
+.aectabhr {
+   color: #7F7F7F;
+}
+
+.sectabprice {
+   font-family: "Poppins";
+   font-size: 16px;
+   color: #45A055;
+}
+
+.sectabpricebg {
+   display: flex;
+   justify-content: space-between;
+}
+
+.sectabpricestar {
+   font-family: "Poppins";
+   font-size: 16px;
+   color: #7F7F7F;
+}
+
+.sectabpricestar i {
+   color: #AC8900;
+}
+
+.sectabutin {
+   text-align: center;
+   padding-top: 20px;
+}
+
+.sectabutin a {
+   font-family: 'Poppins';
+   font-size: 15px;
+   color: #fff;
+   background: #AC8900;
+   border-radius: 30px;
+   padding: 10px 30px;
+   text-decoration: none;
+}
+
+.sectabutin a:hover {
+   background-color: #45A055;
+}
+
+.secvidbgg {
+   padding: 0;
+   padding-bottom: 80px;
+}
+
+.secvideo {
+   width: 100%;
+}
+
+.secheadding2 p {
+   font-family: 'Sacramento';
+   font-size: 30px;
+   color: #000;
+   margin: 0;
+}
+
+.secevtbg {
+   padding-bottom: 80px;
+}
+
+/* imag hover */
+.ecetsechov {
+   position: relative;
+   margin-top: 50px;
+}
+
+.overlay {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background: rgba(0, 0, 0, 0);
+   transition: background 0.5s ease;
+}
+
+.ecetsechov:hover .overlay {
+   display: block;
+   background: rgba(0, 0, 0, .3);
+}
+
+.ecetsechov img {
+   /* position: absolute; */
+   width: 100%;
+}
+
+.titledate {
+   position: absolute;
+   left: 0;
+   top: 250px;
+   font-size: 15px;
+   font-family: 'Poppins';
+   color: white;
+   z-index: 1;
+   transition: top .5s ease;
+   padding-left: 10px;
+}
+
+.titleheading {
+   position: absolute;
+   left: 0;
+   top: 280px;
+   font-weight: 600;
+   font-size: 18px;
+   font-family: 'Poppins';
+   color: white;
+   z-index: 1;
+   transition: top .5s ease;
+   padding-left: 10px;
+}
+
+.ecetsechov:hover .titleheading {
+   top: 230px;
+}
+
+.ecetsechov:hover .titledate {
+   top: 200px;
+}
+
+.ecetsechov .button {
+   position: absolute;
+   left: 0;
+   top: 290px;
+   text-align: center;
+   opacity: 0;
+   margin-left: 10px;
+   transition: opacity .35s ease;
+}
+
+.ecetsechov .button a {
+   font-size: 14px;
+   font-family: 'Poppins';
+   font-weight: 500;
+   padding: 10px 20px;
+   border-radius: 50px;
+   text-decoration: none;
+   color: #fff;
+   z-index: 1;
+   background-color: #AC8900;
+}
+
+.ecetsechov .button a:hover {
+   background-color: #45A055;
+}
+
+.ecetsechov:hover .button {
+   opacity: 1;
+}
+
+/* event */
+#evtslid.my-owl-nav2 {
+   position: relative;
+   z-index: 99 !important;
+   color: #fff;
+   text-align: end;
+   margin-top: -84px;
+}
+
+#evtslid .secbgtoh {
+   padding: 11px 15px;
+   background: transparent !important;
+   border: 1px solid #AC8900;
+   color: #AC8900;
+   border-radius: 50%;
+   font-size: 20px;
+   backdrop-filter: blur(var(--blur-xs));
+}
+
+#evtslid .secbgtoh:hover {
+   padding: 11px 15px;
+   background: #AC8900 !important;
+   border: 1px solid #AC8900;
+   color: #fff;
+   border-radius: 50%;
+   font-size: 20px;
+   backdrop-filter: blur(var(--blur-xs));
+}
+
+.eventslider .owl-nav {
+   display: none;
+}
+
+.eventslider .owl-dots {
+   display: none;
+}
+
+.sectasterbg {
+   background-image: url(../images/foodbg.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 80px;
+   margin-bottom: 80px;
+}
+
+.secfoodtext p {
+   font-family: 'Sacramento';
+   font-size: 30px;
+   color: #AC8900;
+   margin: 0;
+}
+
+.secfoodtext h4 {
+   font-family: 'Poppins';
+   font-size: 40px;
+   font-weight: 700;
+   color: #fff;
+}
+
+.fooodbtn {
+   padding-top: 20px;
+}
+
+.fooodbtn a {
+   font-family: 'Poppins';
+   font-size: 15px;
+   color: #fff;
+   background: #AC8900;
+   border-radius: 30px;
+   padding: 10px 40px;
+   text-decoration: none;
+}
+
+.fooodbtn a:hover {
+   background-color: #45A055;
+}
+
+/* product */
+#evtslid2.my-owl-nav3 {
+   position: relative;
+   z-index: 99 !important;
+   color: #fff;
+   text-align: end;
+   margin-top: -84px;
+}
+
+#evtslid2 .secbgtoh {
+   padding: 11px 15px;
+   background: transparent !important;
+   border: 1px solid #AC8900;
+   color: #AC8900;
+   border-radius: 50%;
+   font-size: 20px;
+   backdrop-filter: blur(var(--blur-xs));
+}
+
+#evtslid2 .secbgtoh:hover {
+   padding: 11px 15px;
+   background: #AC8900 !important;
+   border: 1px solid #AC8900;
+   color: #fff;
+   border-radius: 50%;
+   font-size: 20px;
+   backdrop-filter: blur(var(--blur-xs));
+}
+
+.productsl .owl-nav {
+   display: none;
+}
+
+.productsl .owl-dots {
+   display: none;
+}
+
+.produtdetailbg {
+   border: 1px solid #EDEDED;
+   margin-top: 40px;
+   border-radius: 10px;
+   position: relative;
+}
+
+.produtdetailbg:hover {
+   border: 1px solid #008ECC;
+   box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+}
+
+.secoffprod {
+   position: absolute;
+   right: 0;
+   background-color: #010080;
+   color: #fff;
+   padding: 10px 15px;
+   border-radius: 0px 10px 0px 10px;
+}
+
+.secprodimg img {
+   border-radius: 10px 10px 0px 0px;
+}
+
+.secoffprod p {
+   font-family: 'Poppins';
+   font-size: 15px;
+   color: #fff;
+   font-weight: 600;
+   margin: 0;
+}
+
+.secprodutext h4 {
+   font-family: 'Poppins';
+   font-size: 20px;
+   color: #000;
+   font-weight: 600;
+   padding-top: 15px;
+   padding-left: 10px;
+}
+
+.secprodutext h5 {
+   font-family: 'Poppins';
+   font-size: 18px;
+   color: #000;
+   font-weight: 700;
+   padding-left: 10px;
+}
+
+.secprodutext h5 span {
+   font-family: 'Poppins';
+   font-size: 18px;
+   color: #7F7F7F;
+   font-weight: 400;
+   padding-left: 10px;
+}
+
+.secprodutext hr {
+   margin: 0px 10px;
+   background-color: #EDEDED !important;
+   opacity: 1;
+   height: 1px;
+   border: 0;
+}
+
+.produtdetailbg a {
+   text-decoration: none;
+}
+
+.secprodutext p {
+   padding-left: 10px;
+   font-family: 'Poppins';
+   font-size: 18px;
+   color: #249B3E;
+   font-weight: 600;
+}
+
+.secfooterbg {
+   background-image: url(../images/footerbg.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+   padding: 40px;
+}
+
+.secftoorlog img {
+   margin-top: -40px;
+}
+
+.secparg {
+   font-family: 'Poppins';
+   font-size: 17px;
+   color: #fff;
+   padding-top: 40px;
+}
+
+.secsocalmedia {
+   display: flex;
+   justify-content: flex-start;
+   padding-top: 10px;
+}
+
+.socicm3 {
+   padding-left: 20px;
+}
+
+.socicm3 a,
+.socicm4 a {
+   font-size: 20px;
+   color: #010080;
+   background-color: #fff;
+   border-radius: 50px;
+}
+
+.secpadd1 a {
+   padding: 10px 17px !important;
+}
+
+.secpadd2 a {
+   padding: 9px 13px 11px 14px !important;
+}
+
+.secpadd3 a {
+   padding: 10px 15px !important;
+}
+
+.secpadd4 a {
+   padding: 10px 14px !important;
+}
+
+.secpadd1:hover a,
+.secpadd2:hover a,
+.secpadd3:hover a,
+.secpadd4:hover a {
+   background-color: #AC8900;
+}
+
+.secheadfoot {
+   font-family: 'Poppins';
+   font-size: 20px;
+   color: #fff;
+   font-weight: 500;
+   padding-bottom: 20px;
+}
+
+.secfoottex p a {
+   font-family: 'Poppins';
+   font-size: 16px;
+   color: #fff;
+   text-decoration: none;
+   padding: 0;
+}
+
+.email-input-wrapper {
+   background-color: white;
+   border-radius: 50px;
+   display: flex;
+   align-items: center;
+   padding: 8px 10px;
+   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+   max-width: 400px;
+   margin: auto;
+}
+
+.email-input-wrapper input {
+   border: none;
+   outline: none;
+   flex: 1;
+   padding: 10px;
+   border-radius: 50px;
+}
+
+.email-input-wrapper button {
+   background-color: #b38600;
+   /* golden color */
+   border: none;
+   border-radius: 50%;
+   width: 40px;
+   height: 40px;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+.email-input-wrapper button i {
+   color: white;
+   font-size: 16px;
+}
+
+.paymemlogo {
+   width: 70%;
+   padding-top: 40px;
+}
+
+.footerhr {
+   border: 0;
+   height: 1px;
+   background-color: #fff;
+}
+
+.aectem2 {
+   text-align: center;
+   font-family: 'Poppins';
+   font-size: 16px;
+   color: #fff;
+   padding-top: 20px;
+}
+
+/* whatsapp */
+a {
+   text-decoration: none !important;
+}
+
+.floating_btn {
+   position: fixed;
+   left: 0;
+   bottom: 0px;
+   width: 100px;
+   height: 100px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   z-index: 1000;
+}
+
+@keyframes pulsing {
+   to {
+      box-shadow: 0 0 0 30px rgba(232, 76, 61, 0);
+   }
+}
+
+.contact_icon {
+   background-color: #42db87;
+   color: #fff;
+   width: 60px;
+   height: 60px;
+   font-size: 30px;
+   border-radius: 50px;
+   text-align: center;
+   box-shadow: 2px 2px 3px #999;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   transform: translatey(0px);
+   animation: pulse 1.5s infinite;
+   box-shadow: 0 0 0 0 #42db87;
+   -webkit-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+   -moz-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+   -ms-animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+   animation: pulsing 1.25s infinite cubic-bezier(0.66, 0, 0, 1);
+   font-weight: normal;
+   font-family: sans-serif;
+   text-decoration: none !important;
+   transition: all 300ms ease-in-out;
+}
+
+.text_icon {
+   margin-top: 8px;
+   color: #707070;
+   font-size: 13px;
+}
+
+/* whatsapp end */
+
+
+/* back to top */
+#button {
+   display: inline-block;
+   background: #AC8900;
+   width: 50px;
+   height: 50px;
+   text-align: center;
+   border-radius: 50px;
+   position: fixed;
+   bottom: 10px;
+   right: 30px;
+   transition: background-color .3s,
+      opacity .5s, visibility .5s;
+   opacity: 0;
+   visibility: hidden;
+   z-index: 1000;
+}
+
+#button::after {
+   content: "\f077";
+   font-family: FontAwesome;
+   font-weight: normal;
+   font-style: normal;
+   font-size: 2em;
+   line-height: 50px;
+   color: #fff;
+}
+
+#button:hover {
+   cursor: pointer;
+   background-color: #010080;
+}
+
+#button:active {
+   background-color: #555;
+}
+
+#button.show {
+   opacity: 1;
+   visibility: visible;
+}
+
+a {
+   text-decoration: none !important;
+}
+
+.allinerpagebg {
+   background-image: url(../images/inerpagebg.png);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+.secpagerheader {}
+
+.secpagerheader h3 {
+   font-family: 'Poppins';
+   font-size: 60px;
+   font-weight: 700;
+   color: #fff;
+   text-align: center;
+   padding-top: 20px;
+   margin: 0;
+}
+
+.secpagerheader hr {
+   border-top: 2px solid #AC8900 !important;
+   width: 5%;
+   margin: auto;
+   opacity: 1;
+   padding-bottom: 110px;
+   margin-top: 10px;
+}
+
+.servicesmainbg {
+   padding: 60px 0px;
+}
+
+.secseleallrab {
+   margin-top: 0px !important;
+   justify-content: center !important;
+}
+
+.secseleallrab2 {
+   width: 60% !important;
+   margin: auto;
+   padding-top: 30px;
+}
+
+.secontabg {
+   position: relative;
+   width: 100%;
+   height: 100%;
+}
+
+.secdtma {
+   margin-bottom: 20px;
+}
+
+.overlay {
+   position: absolute;
+   top: 0;
+   left: 0;
+   width: 100%;
+   height: 100%;
+   background: rgba(0, 0, 0, 0);
+   transition: background 0.5s ease;
+}
+
+.secontabg:hover .overlay {
+   display: block;
+   background: #0000806c;
+}
+
+.title {
+   position: absolute;
+   width: 100%;
+   left: 0;
+   top: 120px;
+   font-weight: 400;
+   font-size: 30px;
+   text-align: center;
+   font-family: 'Sacramento';
+   text-transform: capitalize;
+   color: white;
+   z-index: 1;
+   transition: top .5s ease;
+}
+
+.title2 {
+   position: absolute;
+   width: 100%;
+   left: 0;
+   top: 150px;
+   font-weight: 700;
+   font-size: 30px;
+   text-align: center;
+   text-transform: capitalize;
+   color: white;
+   z-index: 1;
+   transition: top .5s ease;
+}
+
+.button2 {
+   position: absolute;
+   width: 100%;
+   left: 0;
+   top: 180px;
+   text-align: center;
+   opacity: 0;
+   transition: opacity .35s ease;
+}
+
+.button2 a {
+   width: 100%;
+   padding: 1px 40px 5px 40px;
+   border-radius: 50px;
+   text-align: center;
+   color: white;
+   background-color: #AC8900;
+   margin-bottom: 40px;
+   z-index: 1;
+   position: relative;
+   bottom: 40px;
+}
+
+.button2 a:hover {
+   color: #AC8900;
+   background-color: #fff;
+}
+
+.secontabg:hover .title {
+   top: 60px;
+}
+
+.secontabg:hover .title2 {
+   top: 85px;
+}
+
+.secontabg:hover .button2 {
+   opacity: 1;
+}
+
+.secgettuchbg {
+   padding: 60px 10px;
+}
+
+.contabg {
+   width: 70%;
+   margin: auto;
+}
+
+.contff label {
+   font-family: 'Montserrat';
+   font-size: 15px;
+   font-weight: 500;
+   color: #000;
+}
+
+.contff input {
+   border: 1px solid #BBBBBB;
+   border-radius: 50px;
+   margin-bottom: 20px;
+}
+
+.contff textarea {
+   border: 1px solid #BBBBBB;
+   border-radius: 10px;
+   margin-bottom: 20px;
+}
+
+.contff button {
+   width: 100%;
+   border: 1px solid #AC8900;
+   background-color: #AC8900;
+   font-family: 'Montserrat';
+   font-size: 15px;
+   font-weight: 600;
+   color: #fff;
+}
+
+.contff button:hover {
+   border: 1px solid #AC8900;
+   background-color: #fff;
+   color: #AC8900;
+}
+
+.secpagerheader2 p {
+   font-family: 'Sacramento';
+   font-size: 40px;
+   color: #fff;
+   text-align: center;
+   margin: 0;
+}
+
+.secpagerheader2 h3 {
+   font-family: 'Poppins';
+   font-size: 60px;
+   font-weight: 700;
+   color: #fff;
+   text-align: center;
+   padding-top: 0px;
+   margin: 0;
+}
+
+.secpagerheader2 hr {
+   border-top: 2px solid #AC8900 !important;
+   width: 5%;
+   margin: auto;
+   opacity: 1;
+   padding-bottom: 110px;
+   margin-top: 10px;
+}
+.fittmaibg{
+   padding: 60px 10px;
+   width: 80%;
+   margin: auto;
+}
+
+.card {
+   margin-bottom: 20px;
+}
+
+.filter-bar {
+   margin-bottom: 30px;
+   background-color: #D9D9D9;
+   padding: 10px;
+}
+.secgadbg{
+   background-color: #EBEBEB;
+   border: 1px solid #D8D8D8;
+   border-radius: 16px;
+}
+.secgadimg{
+   width: 30%;
+}
+.secgadimg img{
+   width: 100%;
+}
+.secgadeats{
+   width: 70%;
+   padding-left: 10px;
+}
+.secgadeats h5{
+   font-family: 'Poppins';
+   font-size: 20px;
+   font-weight: 700;
+   color: #000;
+}
+.secgadeats hr{
+   margin: 0;
+   opacity: 1;
+}
+.secregno{
+    font-family: 'Poppins';
+   font-size: 14px;
+   color: #000;
+}
+.seclangand{
+     font-family: 'Poppins';
+   font-size: 14px;
+   color: #000;
+   padding: 15px 0px;
+}
+.seclangand span{
+  padding: 10px 12px;
+  border-radius: 50px;
+   background-color: #D9D9D9;
+   margin-left: 10px;
+}
+.secgandesti{
+    font-family: 'Poppins';
+   font-size: 14px;
+   color: #000;
+}
+.secgandbtn{
+   padding: 8px 45px;
+   border-radius: 50px;
+   background-color: #AC8900;
+   border: 1px solid #AC8900;
+   color: #fff;
+   font-family: 'Poppins';
+    font-size: 14px;
+}
+.secgandbtn:hover{
+ border: 1px solid #AC8900;
+ background-color: #fff;
+ color: #AC8900;
+}

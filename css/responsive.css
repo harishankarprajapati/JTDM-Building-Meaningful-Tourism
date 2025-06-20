@@ -1,0 +1,385 @@
+/* -------1920--------- */
+
+@media only screen and (min-width:1920px) {
+
+  .container-fluid {
+    width: 1903px;
+    margin: auto;
+  }
+.secsldetext h1 {
+    font-size: 68px;
+}
+.secsldetext p {
+    font-size: 16px;
+}
+.secbtnhero a {
+    font-size: 16px;
+        padding: 10px 35px;
+}
+.secplaybut {
+    width: 35% !important;
+}
+.my-owl-nav {
+    padding-left: 320px;
+}
+span.my-prev-button {
+    font-size: 22px;
+}
+span.my-next-button{
+  font-size: 22px;
+}
+.secsltext {
+    margin-top: -160px;
+}
+.sectasterbg{
+  margin-bottom: 80px !important;
+}
+
+
+}
+@media only screen and (min-width:1200px) {
+  .container {
+        max-width: 1278px !important;
+    }
+}
+
+@media only screen and (max-width:1024px) {
+    .offcanvas-header {
+    background: #000;
+}
+.headermenusec {
+    font-family: 'Poppins';
+    font-size: 33px;
+}
+button.navbar-toggler {
+        border: 1px solid #fff;
+    }
+    .secsltext {
+    margin-top: -94px;
+}
+
+.titledate {
+    position: absolute;
+    left: 0;
+    top: 150px;
+    font-size: 16px;
+}
+.titleheading {
+    position: absolute;
+    left: 0;
+    top: 180px;
+    font-size: 18px;
+}
+.ecetsechov .button {
+    position: absolute;
+    left: 0;
+    top: 220px;
+}
+.ecetsechov:hover .titleheading {
+    top: 130px;
+}
+.ecetsechov:hover .titledate {
+    top: 100px;
+}
+}
+
+
+
+@media only screen and (max-width:999px) {
+  .offcanvas-header {
+    background: #000;
+}
+button.navbar-toggler {
+    border: 1px solid #fff;
+}
+
+
+}
+
+@media only screen and (max-width:768px) {
+    .headermenusec {
+    font-family: 'Poppins';
+    font-size: 18px;
+    }
+  .headerbg{
+    padding: 0;
+  }
+  
+  .secplaybut {
+    display: none !important;
+}
+.my-owl-nav {
+    padding-left: 26px;
+    margin-top: -69px;
+    margin-bottom: 35px;
+}
+.secOurServicesbg {
+    background-color: #010080;
+    padding: 80px 10px 40px 10px;
+}
+.senowimg {
+    height: 510px;
+}
+.secsltext {
+    margin-top: -198px;
+}
+.secsrmobg{
+    display: flex;
+}
+.serw {
+  width: 50%;
+}
+.secsltext h4 {
+    font-size: 33px;
+}
+.secsltext a {
+    font-size: 22px;
+}
+.owlslider .owl-stage {
+    padding-top: 140px;
+}
+ul.nav.nav-tabs {
+    justify-content: center;
+    margin-top: 20px;
+}
+.nav-tabs .nav-link {
+    font-size: 19px;
+    padding-left: 0px;
+    padding-right: 40px;
+}
+.secheadding2 h2 {
+    text-align: center;
+}
+.secheadding2 p {
+  text-align: center;
+}
+.secheadding2 hr {
+    margin: auto !important;
+}
+#evtslid.my-owl-nav2 {
+    margin-top: 20px;
+}
+.titledate {
+    position: absolute;
+    left: 0;
+    top: 298px;
+    font-size: 22px;
+}
+.titleheading {
+    position: absolute;
+    left: 0;
+    top: 330px;
+    font-size: 25px;
+}
+.ecetsechov .button {
+    position: absolute;
+    left: 0;
+    top: 360px;
+}
+.ecetsechov:hover .titleheading {
+    top: 270px;
+}
+.ecetsechov:hover .titledate {
+    top: 230px;
+}
+.ecetsechov {
+    position: relative;
+    margin-top: 20px;
+}
+.sectasterbg {
+    padding: 80px 10px;
+}
+.secfoodtext p {
+    padding-top: 29px;
+    font-size: 42px;
+}
+.secfoodtext h4 {
+    font-size: 36px;
+}
+.fooodbtn {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+#evtslid2.my-owl-nav3 {
+    margin-top: 20px;
+}
+.secprodutext h4 {
+    font-size: 36px;
+}
+.secprodutext h5 {
+    font-size: 25px;
+}
+.secprodutext h5 span {
+    font-size: 25px;
+}
+.secprodutext p {
+    padding-left: 10px;
+    font-size: 25px;
+    padding-top: 10px;
+}
+.secfooterbg {
+    padding: 40px 10px;
+}
+.secimgst{
+  text-align: end;
+}
+.secimgst img {
+    width: 65%;
+    margin: auto;
+}
+.secimgst {
+   bottom: 338px;
+}
+
+.secheadfoot {
+    padding-top: 30px;
+}
+.secsldetext h1 {
+        font-size: 66px;
+    }
+}
+
+
+@media only screen and (max-width:430px) {
+a.navbar-brand {
+    width: 75%;
+
+}
+    .secimgst {
+        bottom: 201px;
+    }
+    .secsldetext h1 {
+    font-size: 40px;
+  }
+      .secsltext {
+        margin-top: -240px;
+    }
+        .titledate {
+        position: absolute;
+        left: 0;
+        top: 325px;
+        font-size: 22px;
+    }
+        .titleheading {
+        position: absolute;
+        left: 0;
+        top: 350px;
+        font-size: 25px;
+    }
+    .ecetsechov:hover .titleheading {
+    top: 320px;
+}
+.ecetsechov:hover .titledate {
+    top: 280px;
+}
+.ecetsechov .button {
+    position: absolute;
+    left: 0;
+    top: 407px;
+}
+}
+
+@media only screen and (max-width:380px) {
+       .secsltext {
+        margin-top: -200px;
+    }
+    a.navbar-brand {
+    width: 70%;
+    }
+        .secimgst {
+        bottom: 103px;
+    }
+         .titledate {
+        position: absolute;
+        left: 0;
+        top: 275px;
+        font-size: 20px;
+    }
+        .titleheading {
+        position: absolute;
+        left: 0;
+        top: 306px;
+        font-size: 23px;
+    }
+        .ecetsechov:hover .titledate {
+        top: 249px;
+    }
+    .ecetsechov:hover .titleheading {
+        top: 283px;
+    }
+        .ecetsechov .button {
+        position: absolute;
+        left: 0;
+        top: 358px;
+    }
+
+}
+@media only screen and (max-width:340px) {
+ 
+
+}
+@media only screen and (max-width:320px) {
+        a.navbar-brand {
+        width: 69%;
+    }
+    .secsldetext h1 {
+        font-size: 33px;
+    }
+    .secsldetext h5 {
+    font-family: "Sacramento";
+    font-size: 30px;
+    }
+    .secheadding2 h2 {
+    font-family: "Poppins";
+    font-size: 23px;
+    }
+        .nav-tabs .nav-link {
+        font-size: 17px;
+        padding-left: 0px;
+        padding-right: 25px;
+    }
+.secsltext {
+        margin-top: -72px;
+    }
+        .titledate {
+        position: absolute;
+        left: 0;
+        top: 203px;
+        font-size: 18px;
+    }
+    .titleheading {
+        position: absolute;
+        left: 0;
+        top: 230px;
+        font-size: 20px;
+    }
+        .ecetsechov:hover .titleheading {
+        top: 243px;
+    }
+        .ecetsechov:hover .titledate {
+        top: 211px;
+    }
+        .ecetsechov .button {
+        position: absolute;
+        left: 0;
+        top: 306px;
+    }
+        .secfoodtext p {
+        padding-top: 29px;
+        font-size: 30px;
+    }
+    .secprodutext h4 {
+        font-size: 30px;
+    }
+        .secprodutext h5 {
+        font-size: 22px;
+    }
+        .secprodutext h5 span {
+        font-size: 22px;
+    }
+        .secprodutext p {
+        padding-left: 10px;
+        font-size: 22px;
+        }
+}
+
